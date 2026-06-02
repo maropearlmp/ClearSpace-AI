@@ -1,0 +1,6 @@
+{
+  "name": "ClearSpace AI",
+  "description": "An AI-powered storage cleaner that recovers space by removing duplicate photos, compressing media, and moving files to Secure Cloud Vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
